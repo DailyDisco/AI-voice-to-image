@@ -1,0 +1,9 @@
+replicate
+python-dotenv
+flask_cors
+openai
+torch
+flask
+mangum
+pydub
+speechrecognition
