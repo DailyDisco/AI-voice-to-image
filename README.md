@@ -6,7 +6,7 @@ This is an app that allows you to create an AI image of anything using your voic
 
 ### Backend
 
-Make sure that your docker is runnning and cd into the backend
+Make sure that your docker is running and cd into the backend
 Run "docker build -t backend ."
 Run docker run -p 5000:5000 backend
 
@@ -33,6 +33,4 @@ Flask
 I plan to incorporate img2vid using AI to create voice2vid generations!
 The frontend styling will also be improved and maybe start giving it a SASS format
 
-## Add a YouTube2text transcription app using Whisper
-
-## Add
+### Add a YouTube2text transcription app using Whisper
